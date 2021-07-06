@@ -31,3 +31,8 @@ width: 50%;
 #copyright-year::after{
   content: " 2021";
 }
+<<<<<<< Updated upstream
+=======
+
+alert("Hi");
+>>>>>>> Stashed changes
