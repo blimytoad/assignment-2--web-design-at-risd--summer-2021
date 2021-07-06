@@ -1,0 +1,33 @@
+body{
+  background-color: #fadfad; // NOT transparent
+
+}
+
+h1{
+width: 50%;
+
+  width: 100%;
+  background-color: #bada55;
+
+}
+
+.highlight{
+  background-color: #ffff00;
+}
+
+.credit{
+  border: 1px solid black;
+
+
+}
+#main{ // best for single thing
+  background-color: yellow;
+}
+
+.main{
+  background-color: #210f5c;
+}
+
+#copyright-year::after{
+  content: " 2021";
+}
